@@ -1,0 +1,13 @@
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\Interop.WMPLib.dll
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\AxInterop.WMPLib.dll
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\Raj_mp3player.csproj.ResolveComReference.cache
+G:\RAJC#\Raj_mp3player\Raj_mp3player\bin\Debug\Raj_mp3player.exe
+G:\RAJC#\Raj_mp3player\Raj_mp3player\bin\Debug\Raj_mp3player.pdb
+G:\RAJC#\Raj_mp3player\Raj_mp3player\bin\Debug\Interop.WMPLib.dll
+G:\RAJC#\Raj_mp3player\Raj_mp3player\bin\Debug\AxInterop.WMPLib.dll
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\ResolveAssemblyReference.cache
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\mp3player.Form1.resources
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\mp3player.Properties.Resources.resources
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\Raj_mp3player.csproj.GenerateResource.Cache
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\Raj_mp3player.exe
+G:\RAJC#\Raj_mp3player\Raj_mp3player\obj\Debug\Raj_mp3player.pdb

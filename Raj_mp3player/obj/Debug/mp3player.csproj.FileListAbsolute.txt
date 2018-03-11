@@ -1,0 +1,13 @@
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\bin\Debug\mp3player.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\bin\Debug\mp3player.pdb
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\bin\Debug\Interop.WMPLib.dll
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\Interop.WMPLib.dll
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\mp3player.csproj.ResolveComReference.cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\mp3player.Form1.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\mp3player.Properties.Resources.resources
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\mp3player.csproj.GenerateResource.Cache
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\mp3player.exe
+C:\Users\SHEIKH RAJ\AppData\Local\Temporary Projects\mp3player\obj\Debug\mp3player.pdb
